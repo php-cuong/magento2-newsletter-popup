@@ -1,4 +1,4 @@
-# Newsletter Popup Extension Free in Magento 2
+# Newsletter Popup Extension for Magento 2
 The newsletter popup will be displayed on all the pages in your website, a popup will be shown after 5 seconds and require the customer to sign up for newsletters.
 
 # Introduction installation:
